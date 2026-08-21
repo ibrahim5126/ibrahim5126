@@ -1,24 +1,24 @@
-# Hey, I'm Muhammad Ibrahim 👋
+<div align="center">
 
-![SWE Level](https://img.shields.io/badge/SWE-Lvl%201-39C5BB?style=for-the-badge)
+# ✦ MUHAMMAD IBRAHIM ✦
+### `Business Analytics` × `AI & Data Engg` × `Creative Tech`
 
-Business Analytics student who ended up doing backend/AI dev anyway — figured coursework alone wasn't going to cut it, so I build things on the side instead.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&lines=System.init(%22MikuOS%22);;Building+data+pipelines+%26+backend+systems;;Pre-producing+psychological+horror+in+UE5;;Bridging+analytics+with+creative+engineering)](https://git.io/typing-svg)
 
-### What I'm working on
-- 🎮 **Uwasa** — an in-development horror game anthology concept for Unreal Engine 5, built around Japanese urban legends and the dread of ordinary life going wrong (currently in pre-production/design phase)
-- 🎤 **AiScream** — a Python tool that syncs lyrics to audio for karaoke, built from scratch after a lot of trial and error with timing sync
-- 🖥️ A fully custom-themed Linux setup — because if I'm going to spend hours in a terminal, it might as well not look boring
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-Python_%7C_C%2B%2B_%7C_SQL-0D1117?style=for-the-badge&logoColor=39C5BB&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Engine-Unreal_Engine_5-0D1117?style=for-the-badge&logoColor=39C5BB&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Environment-Custom_Linux-0D1117?style=for-the-badge&logoColor=39C5BB&labelColor=0D1117" />
+</p>
 
-### Currently learning
-- Python, DSA, and backend fundamentals — properly, from the ground up
-- SQL / PostgreSQL for real project work
-- 日本語 (Japanese)
+---
+</div>
 
-### How I work
-- I debug things myself before asking for help — if something breaks, I want to actually understand why
-- I'd rather ship something small and finished than something huge and half-done
-- No tutorials for most of what I build — just an idea, a lot of trial and error, and sticking with it until it works
+### ⌁ `whoami`
 
-### Find me elsewhere
-- 🐦 X: [@M_Ibrahim5126](https://x.com/M_Ibrahim5126)
-- 🎨 Art (Instagram): [@m_ibrahim_5126](https://www.instagram.com/m_ibrahim_5126?igsi=MXNiY2M4YThqMDh4eg%3D%3D)
+```zsh
+❯ ibrahim --info
+[+] Status     : Undergrad in Business Analytics (FAST NUCES)
+[+] Focus      : AI Track & Data Engineering (SWE Lv.1)
+[+] Secondary  : Unreal Engine 5 Technical Design & Digital Art
+[+] Philosophy : "Understand the crash, optimize the pipeline, ship clean builds."
