@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ibrahim5126/ibrahim5126/main/assets/header.gif" width="100%" alt="header"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=39C5BB&center=true&vCenter=true&width=800&lines=%E3%83%8F%E3%83%84%E3%83%8D+%E3%83%9F%E3%82%AF+%3A%3A+VOCALOID+SYSTEM+ACTIVE;Hey%2C+I'm+Muhammad+Ibrahim;Backend+%2F+AI+Dev+%E2%8C%81+Game+Dev+%E2%8C%81+Digital+Artist;SWE+Lvl+1+%E2%80%94+Still+Leveling+Up;No+tutorials.+Just+debugging+until+it+works.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39C5BB&center=true&vCenter=true&width=750&lines=%E3%83%8F%E3%83%84%E3%83%8D+%E3%83%9F%E3%82%AF+%3A%3A+VOCALOID+SYSTEM;Hey%2C+I'm+Muhammad+Ibrahim;Backend+%2F+AI+Dev+%E2%8C%81+Game+Dev+%E2%8C%81+Digital+Artist;SWE+Lvl+1+%E2%80%94+Still+Leveling+Up;Building+Uwasa+%2F+AiScream+%2F+Miku+OS)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:39C5BB,100:0D7377&height=200&section=header&text=MUHAMMAD%20IBRAHIM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SWE%20Lvl%201%20%7C%20Backend%20%2F%20AI%20%2F%20Game%20Dev&descAlignY=58&descSize=18)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=39C5BB&height=180&section=header&text=MUHAMMAD%20IBRAHIM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="200"/>
 
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="180"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39C5BB&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## ⌁ SYSTEM PROFILE & PHILOSOPHY
 
-<img align="right" width="260" src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
+<img align="right" width="280" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
 
 I'm a Business Analytics undergrad working at the intersection of data pipelines, backend architecture, and interactive computing. I don't wait for coursework to define my scope — I build side-systems, configure my own dev infrastructure, and debug real problems through first-principles thinking instead of copy-pasting fixes.
 
@@ -28,6 +28,7 @@ No tutorials for most of what I build. Just an idea, a lot of trial and error, a
 [CREATIVE]     : Interactive Horror Pre-Production (UE5), 2D Digital Illustration (Krita)
 [ENVIRONMENT]  : Custom-themed Linux — "Miku OS" (#39C5BB teal workflow) & VS Code
 [PRINCIPLE]    : "Root-cause debugging over band-aid fixes."
+[STATUS]       : 「 バグを潰しに行きましょう！」 — Ready to code something legendary.
 ========================================================================================
 ```
 
@@ -35,39 +36,39 @@ No tutorials for most of what I build. Just an idea, a lot of trial and error, a
 
 ## 🕹️ FEATURED PROJECTS
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎮 Uwasa (噂)
 **Horror Game Anthology — UE5**
 
 Narrative-driven psychological horror rooted in Japanese urban legends and the quiet unraveling of ordinary life.
 
-**Status:** `Concept / Pre-production`
-**Philosophy:** Tension and restraint over cheap jump scares.
+`Status: Concept / Pre-production`
+`Philosophy: Tension over jump scares`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎤 AiScream
 **Karaoke Sync Tool — Python**
 
-Built from scratch to sync lyrics to audio playback. Solved timing-drift between playback and display through iterative timestamp handling.
+Built from scratch to sync lyrics to audio playback. Solved timing-drift through iterative timestamp handling.
 
-**Status:** `Working build ✅`
+`Status: Working build ✅`
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="100%" colspan="2" valign="top">
 
 ### 🖥️ Miku OS
 **Fully-themed Linux Dev Environment**
 
-Custom shell hooks (greetings, error roasts, exit confirmation), ASCII startup banner, teal (`#39C5BB`) color scheme across shell/icons/cursor, Docker + DB shortcuts.
+Custom shell hooks (rotating greetings, error roasts, two-step exit confirmation), ASCII startup banner, teal (`#39C5BB`) theme across shell/icons/cursor/GTK, Docker + DB shortcuts.
 
-**Status:** `Shipped ✅`
+`Status: Shipped ✅`
 
 </td>
 </tr>
@@ -84,32 +85,28 @@ Custom shell hooks (greetings, error roasts, exit confirmation), ASCII startup b
 ![Linux](https://img.shields.io/badge/Linux-39C5BB?style=for-the-badge&logo=linux&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine%205-39C5BB?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-39C5BB?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-39C5BB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
-| Domain | Tools | Focus |
-|---|---|---|
-| Backend & AI | Python, C++, SQL, PostgreSQL | API design, scripting, data manipulation |
-| Systems | Docker, Bash, Ubuntu Linux | Containerization, environment setup |
-| Interactive Tech | Unreal Engine 5 | Game mechanics, sound design |
-| Visuals & Art | Krita, ASCII Art | Character design, themed UI |
 
 ## 📊 TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahim5126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim5126&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim5126&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
-## 🐍 CONTRIBUTION GRAPH
+## 🏆 TROPHIES
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ibrahim5126/ibrahim5126/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&column=7&margin-w=8"/>
 
 </div>
 
@@ -118,16 +115,15 @@ Custom shell hooks (greetings, error roasts, exit confirmation), ASCII startup b
 <div align="center">
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/M_Ibrahim5126)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_ibrahim_5126?igsi=MXNiY2M4YThqMDh4eg%3D%3D)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibrahim-ba3865275/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-ig-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
 
 </div>
 
 <div align="center">
 
-「 VOCALOID-01 ACTIVE :: バグを潰しに行きましょう！」
-*Code clean, think deep, ship often.*
+「 またね！」 — thanks for stopping by.
 
-<img src="https://komarev.com/ghpvc/?username=ibrahim5126&color=39C5BB&style=flat" alt="profile views"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:39C5BB&height=100&section=footer)
 
 </div>
