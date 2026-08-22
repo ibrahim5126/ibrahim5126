@@ -53,7 +53,7 @@ Focusing on atmosphere, pacing, and narrative architecture first, systems implem
 
 Six days into daily Linux use, I fully re-themed the OS top to bottom — custom shell hooks (rotating greetings, error roasts, two-step exit confirmation with voice via VOICEVOX), ASCII startup banner, teal (`#39C5BB`) theme across shell/icons/cursor/GTK, Docker + Postgres shortcuts.
 
-Debugged real cross-shell (bash/zsh) config conflicts, broken package builds, and dependency chains to get here. Not a tutorial-follow — built and broken and rebuilt by hand.
+Debugged real cross-shell (bash/zsh) config conflicts, broken package builds, and dependency chains to get here.
 
 `Status: Shipped ✅` `Status: Still tinkering with it constantly`
 
