@@ -65,12 +65,11 @@ Debugged real cross-shell (bash/zsh) config conflicts, broken package builds, an
 
 </div>
 
-## 📊 TELEMETRY
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1" width="100%" alt="Tokyo night canal pixel art banner"/>
 
-<sub>Pixel art via <a href="https://github.com/d3vdebug/pixelartgifs">d3vdebug/pixelartgifs</a></sub>
+<sub><a href="https://github.com/d3vdebug/pixelartgifs">source</a></sub>
 
 </div>
 
