@@ -13,7 +13,7 @@
 ```bash
 ❯ ibrahim --identity --verbose
 ========================================================================================
-[DEGREE]       : Business Analytics undergrad — the data-thinking foundation beneath everything else here.
+[DEGREE]       : Business Analytics undergrad
 [BUILDS]       : Backend / AI dev — SWE Lvl 1, learning fundamentals from the ground up
 [CREATES]      : Game dev (UE5) — narrative horror, restraint over spectacle
 [RUNS ON]      : Custom-themed Linux — "Miku OS" (#39C5BB teal, fully hand-built)
