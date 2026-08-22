@@ -13,7 +13,7 @@
 ```bash
 ❯ ibrahim --identity --verbose
 ========================================================================================
-[DEGREE]       : Business Analytics undergrad (the "safe" path that gave me spare hours)
+[DEGREE]       : Business Analytics undergrad — data-thinking foundation, building everything else in parallel
 [BUILDS]       : Backend / AI dev — SWE Lvl 1, learning fundamentals from the ground up
 [CREATES]      : Game dev (UE5) — narrative horror, restraint over spectacle
 [RUNS ON]      : Custom-themed Linux — "Miku OS" (#39C5BB teal, fully hand-built)
@@ -22,11 +22,11 @@
 ========================================================================================
 ```
 
-I'm not a CS major. I don't have a game dev degree. Everything below was built anyway — nights and weekends, no tutorials, mostly AI-assisted debugging and a lot of stubbornness.
+Everything below was built nights and weekends — no formal CS or game dev track, no tutorials to follow, just root-cause debugging and a lot of stubbornness until it worked.
 
 ## 📊 PATH ONE — DATA / ANALYTICS
 
-Business Analytics undergrad. This is the degree, not the whole story — but it's where the SQL and data-thinking foundation comes from, and it quietly funds the spare time to build everything else below.
+Business Analytics undergrad. The formal foundation — SQL and data-thinking that everything else below builds on.
 
 `SQL` `PostgreSQL` `Data Analysis` `Python`
 
@@ -37,14 +37,14 @@ Started fundamentals properly — Python, DSA, backend basics — no shortcuts, 
 **AiScream** — a Python karaoke sync tool, built from scratch. Solved real timing-drift between audio playback and lyric display through iterative timestamp handling. No tutorial existed for this — just an idea and a lot of failed attempts before it worked.
 `Status: Working build ✅`
 
-## 🎮 PATH THREE — GAME DEV (BEGINNER, HONEST ABOUT IT)
+## 🎮 PATH THREE — GAME DEV
 
 **Uwasa (噂)** — a horror game anthology concept for Unreal Engine 5, rooted in Japanese urban legends and the dread of ordinary life quietly going wrong.
 
 `Status: Concept / pre-production`
 `Philosophy: Restraint over jump scares — the unseen is scarier than the shown`
 
-Not shipped yet. Not pretending it is. This is early, and that's fine.
+Early-stage — design and worldbuilding first, build second.
 
 ## 🐧 PATH FOUR — LINUX / MIKU OS
 
