@@ -1,7 +1,11 @@
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=39C5BB&center=true&vCenter=true&width=800&lines=%E3%83%8F%E3%83%84%E3%83%8D+%E3%83%9F%E3%82%AF+%3A%3A+VOCALOID+SYSTEM+ACTIVE;Business+Analytics+by+Degree%2C+Builder+by+Choice;Data+%2B+Backend+%2B+Game+Dev+%2B+Art;SWE+Lvl+1+%E2%80%94+Still+Leveling+Up)](https://git.io/typing-svg)
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:39C5BB,100:0D7377&height=200&section=header&text=MUHAMMAD%20IBRAHIM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=four%20paths%2C%20one%20person&descAlignY=58&descSize=18)
+
 <img src="https://komarev.com/ghpvc/?username=ibrahim5126&color=39C5BB&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 </div>
 
 ## ⌁ WHO'S RUNNING THIS SYSTEM
