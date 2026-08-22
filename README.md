@@ -22,7 +22,7 @@
 ========================================================================================
 ```
 
-Everything below was built nights and weekends — self-taught, root-cause debugging over shortcuts, and a lot of stubbornness until it worked.
+Built from the ground up on nights and weekends—focused on self-directed engineering, root-cause debugging, and shipping functional tools.
 
 ## 📊 PATH ONE — DATA / ANALYTICS
 
@@ -32,17 +32,16 @@ Business Analytics undergrad. The formal foundation — SQL and data-thinking th
 
 ## 🖥️ PATH TWO — SWE LVL 1
 
-Started fundamentals properly — Python, DSA, backend basics — no shortcuts, no AI writing my logic for me. Built and shipped real tools before finishing "day one":
+Started fundamentals properly — Python, DSA, backend basics — no shortcuts, no AI writing my logic for me. Built and shipped real tools before finishing "day one".
 
 **[AiScream](https://github.com/ibrahim5126/AiScream)** — a terminal karaoke tool for "Ai♡Scream!" (LoveLive!), built from scratch. Solved real timing-drift between audio playback and lyric display through iterative timestamp handling. No tutorial existed for this — just an idea and a lot of failed attempts before it worked.
 `Status: Working build ✅`
 
 ## 🎮 PATH THREE — GAME DEV
 
-**Uwasa (噂)** — a horror game anthology concept for Unreal Engine 5, rooted in Japanese urban legends and the dread of ordinary life quietly going wrong.
+Uwasa (噂) — A narrative horror game anthology designed in Unreal Engine 5, centered on psychological tension and atmospheric storytelling.
 
-`Status: Concept / pre-production`
-`Philosophy: Restraint over jump scares — the unseen is scarier than the shown`
+Status: Concept / Pre-production Philosophy: Restraint over spectacle — psychological dread over jump scares
 
 Early-stage — design and worldbuilding first, build second.
 
