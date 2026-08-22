@@ -71,7 +71,7 @@ Debugged real cross-shell (bash/zsh) config conflicts, broken package builds, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahim5126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=ibrahim5126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>](https://github-readme-stats-seven-psi-75.vercel.app/api?username=ibrahim5126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim5126&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim5126&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
