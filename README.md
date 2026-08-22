@@ -34,7 +34,7 @@ Business Analytics undergrad. The formal foundation — SQL and data-thinking th
 
 Started fundamentals properly — Python, DSA, backend basics — no shortcuts, no AI writing my logic for me. Built and shipped real tools before finishing "day one":
 
-**AiScream** — a Python karaoke sync tool, built from scratch. Solved real timing-drift between audio playback and lyric display through iterative timestamp handling. No tutorial existed for this — just an idea and a lot of failed attempts before it worked.
+**[AiScream](https://github.com/ibrahim5126/AiScream)** — a terminal karaoke tool for "Ai♡Scream!" (LoveLive!), built from scratch. Solved real timing-drift between audio playback and lyric display through iterative timestamp handling. No tutorial existed for this — just an idea and a lot of failed attempts before it worked.
 `Status: Working build ✅`
 
 ## 🎮 PATH THREE — GAME DEV
