@@ -48,7 +48,9 @@ Early-stage — design and worldbuilding first, build second.
 
 ## 🐧 PATH FOUR — LINUX / MIKU OS
 
-Six days into daily Linux use, I fully re-themed the OS top to bottom — custom shell hooks (rotating greetings, error roasts, two-step exit confirmation with voice), ASCII startup banner, teal (`#39C5BB`) theme across shell/icons/cursor/GTK, Docker + Postgres shortcuts.
+**[Miku OS dotfiles →](https://github.com/ibrahim5126/miku-os-dotfiles)**
+
+Six days into daily Linux use, I fully re-themed the OS top to bottom — custom shell hooks (rotating greetings, error roasts, two-step exit confirmation with voice via VOICEVOX), ASCII startup banner, teal (`#39C5BB`) theme across shell/icons/cursor/GTK, Docker + Postgres shortcuts.
 
 Debugged real cross-shell (bash/zsh) config conflicts, broken package builds, and dependency chains to get here. Not a tutorial-follow — built and broken and rebuilt by hand.
 
