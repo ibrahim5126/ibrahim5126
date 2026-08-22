@@ -69,7 +69,7 @@ Debugged real cross-shell (bash/zsh) config conflicts, broken package builds, an
 
 <img src="https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1" width="100%" alt="Tokyo night canal pixel art banner"/>
 
-<sub><a href="https://github.com/d3vdebug/pixelartgifs">source</a></sub>
+[![Source](https://img.shields.io/badge/Source-39C5BB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d3vdebug/pixelartgifs)
 
 </div>
 
