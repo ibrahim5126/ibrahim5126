@@ -22,7 +22,7 @@
 ========================================================================================
 ```
 
-Everything below was built nights and weekends — no formal CS or game dev track, no tutorials to follow, just root-cause debugging and a lot of stubbornness until it worked.
+Everything below was built nights and weekends — self-taught, root-cause debugging over shortcuts, and a lot of stubbornness until it worked.
 
 ## 📊 PATH ONE — DATA / ANALYTICS
 
