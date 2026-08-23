@@ -73,6 +73,17 @@ Debugged real cross-shell (bash/zsh) config conflicts, broken package builds, an
 
 </div>
 
+## 🕹️ ARCADE MODE
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahim5126/ibrahim5126/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahim5126/ibrahim5126/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ibrahim5126/ibrahim5126/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 <!--
 Re-enable once there's an actual history worth showing (stars, PRs, issues, real commit volume).
 Commented out instead of deleted so it's a one-line swap, not a rebuild.
