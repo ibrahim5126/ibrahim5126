@@ -35,7 +35,7 @@ Started fundamentals properly — Python, DSA, backend basics.
 
 `Status: Working build ✅`
 
-### 🎮 PATH THREE — GAME DEV
+## 🎮 PATH THREE — GAME DEV
 **Uwasa (噂)** — A narrative horror game anthology concept for Unreal Engine 5, rooted in psychological dread, tension, and environmental storytelling.
 
 `Unreal Engine 5` `Game Design` `Narrative Horror` `Worldbuilding`
